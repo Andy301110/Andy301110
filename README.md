@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andy301110
-- 👀 I’m interested in Python, C++, C#, C, and 
+- 👀 I’m interested in Python, C++, C#, C, and R
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: Email-augustineandy.100@outlook.com
 
